@@ -12,3 +12,7 @@ This GitHub repository is dedicated to the project for bootcamp "Basics of neura
 2. _EDA_: Explore and visualize the data to gain insights. See [notebook](https://github.com/valfrank/NLP_bootcamp/blob/main/eda.ipynb)
 
 
+
+Author: https://t.me/valfrank
+
+
